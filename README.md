@@ -4,6 +4,7 @@
 # TODO
 - colocar as imagens a ser localizada
 - colocar caminho do arquivo para leitura do pandas
+- preencher o campo cabeçalho e a mensagem 
 
 # FERRAMENTAS
 - pyautogui
